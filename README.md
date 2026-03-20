@@ -1,4 +1,3 @@
-<!DOCTYPE html >
 <html>
 <head>
  <title> Dhaval </title>
@@ -10,7 +9,5 @@ lightyellow; text-align:center;">
     <p> My Father Name is Jahaji Thakor </p>
     <p> My Mother Name is Bhartiben Thakor </p>
     <p> My Sister Name is Tejal Thakor </p>
-  <a 
-href="https://www.google.com> Open Google</a>
 </body>
 </html
