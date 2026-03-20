@@ -1,7 +1,4 @@
 <html>
-<head>
- <title> Dhaval </title>
-</head>
 <body style="background-color:
 lightyellow; text-align:center;">
     <h1>  MY FAMILY </H1>
