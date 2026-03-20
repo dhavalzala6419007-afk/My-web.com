@@ -1,7 +1,7 @@
 <!DOCTYPE html >
 <html>
 <head>
- <title>MY Online website</title>
+ <title> Dhaval </title>
 </head>
 <body style="background-color:
 lightyellow; text-align:center;">
